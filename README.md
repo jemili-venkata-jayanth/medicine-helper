@@ -18,4 +18,6 @@ backend/
 └── generated_audio/ 
 <img width="1902" height="1017" alt="Screenshot 2026-09-20 075226" src="https://github.com/user-attachments/assets/10f917a2-6b9c-41be-8cbb-ceae68b82715" />
 
+finally:  python desktop_app.py
+
 
