@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+
+# ML / AI pipeline
+sentence-transformers==3.0.1
+faiss-cpu>=1.8.0
+easyocr==1.7.1
+openai-whisper
+gTTS==2.5.1
+
+# Note: openai-whisper requires ffmpeg installed on your system
+# (not a pip package). Install it separately:
+#   Windows: choco install ffmpeg   OR download from ffmpeg.org
+#   Mac:     brew install ffmpeg
+#   Linux:   sudo apt install ffmpeg
