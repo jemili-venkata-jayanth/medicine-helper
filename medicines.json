@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "name": "Paracetamol",
+    "aliases": ["crocin", "dolo 650", "calpol", "pcm", "paracip", "tylenol"],
+    "composition": "Paracetamol 500mg/650mg",
+    "uses": ["Fever", "Headache", "Body pain", "Mild pain relief"],
+    "dosage_info": "Commonly taken as per package instructions or doctor's advice. Do not exceed the maximum daily dose printed on the pack.",
+    "side_effects": ["Nausea (rare)", "Allergic reaction (rare)", "Liver damage if overdosed"],
+    "warnings": ["Do not combine with other paracetamol-containing medicines", "Consult a doctor if fever lasts more than 3 days", "Avoid alcohol"],
+    "translations": {
+      "hi": {"uses": ["बुखार", "सिरदर्द", "शरीर में दर्द", "हल्के दर्द से राहत"], "warnings": ["अन्य पैरासिटामोल युक्त दवाओं के साथ न लें", "यदि बुखार 3 दिन से अधिक रहे तो डॉक्टर से सलाह लें", "शराब से बचें"]},
+      "te": {"uses": ["జ్వరం", "తలనొప్పి", "శరీర నొప్పి", "తేలికపాటి నొప్పి నివారణ"], "warnings": ["ఇతర పారాసిటమాల్ ఔషధాలతో కలిపి తీసుకోవద్దు", "జ్వరం 3 రోజుల కంటే ఎక్కువ ఉంటే వైద్యుడిని సంప్రదించండి", "మద్యం మానుకోండి"]}
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cetirizine",
+    "aliases": ["cetrizine", "zyrtec", "alerid", "cetzine"],
+    "composition": "Cetirizine Hydrochloride 10mg",
+    "uses": ["Allergy", "Runny nose", "Itching", "Skin rash", "Sneezing"],
+    "dosage_info": "Typically one tablet daily as directed on the pack or by a doctor.",
+    "side_effects": ["Drowsiness", "Dry mouth", "Fatigue"],
+    "warnings": ["May cause drowsiness - avoid driving", "Consult doctor if pregnant or breastfeeding"],
+    "translations": {
+      "hi": {"uses": ["एलर्जी", "नाक बहना", "खुजली", "त्वचा पर चकत्ते", "छींक आना"], "warnings": ["नींद आ सकती है - वाहन न चलाएं", "गर्भवती या स्तनपान कराने वाली महिलाएं डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["అలర్జీ", "ముక్కు కారడం", "దురద", "చర్మంపై దద్దుర్లు", "తుమ్ములు"], "warnings": ["నిద్ర రావచ్చు - వాహనం నడపవద్దు", "గర్భవతిగా లేదా పాలిస్తున్నప్పుడు వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 3,
+    "name": "ORS",
+    "aliases": ["electral", "oral rehydration salts", "ors powder", "enerzal"],
+    "composition": "Sodium chloride, Potassium chloride, Glucose",
+    "uses": ["Dehydration", "Diarrhea", "Vomiting", "Fluid loss"],
+    "dosage_info": "Dissolve in clean water as per pack instructions; sip slowly throughout the day.",
+    "side_effects": ["Rare - nausea if too concentrated"],
+    "warnings": ["Use clean/boiled water to prepare", "Seek medical help if diarrhea persists more than 2 days"],
+    "translations": {
+      "hi": {"uses": ["निर्जलीकरण", "दस्त", "उल्टी", "शरीर में पानी की कमी"], "warnings": ["साफ/उबला हुआ पानी उपयोग करें", "यदि दस्त 2 दिन से अधिक रहे तो डॉक्टर से मिलें"]},
+      "te": {"uses": ["నిర్జలీకరణ", "విరేచనాలు", "వాంతులు", "శరీరంలో నీటి కొరత"], "warnings": ["శుభ్రమైన/మరిగించిన నీటిని వాడండి", "విరేచనాలు 2 రోజుల కంటే ఎక్కువ ఉంటే వైద్యుడిని కలవండి"]}
+    }
+  },
+  {
+    "id": 4,
+    "name": "Omeprazole",
+    "aliases": ["omez", "prilosec", "omesec"],
+    "composition": "Omeprazole 20mg",
+    "uses": ["Acidity", "Heartburn", "Acid reflux", "Stomach ulcer"],
+    "dosage_info": "Usually taken once daily before food, as directed by a doctor.",
+    "side_effects": ["Headache", "Stomach pain", "Nausea"],
+    "warnings": ["Long-term use should be under medical supervision"],
+    "translations": {
+      "hi": {"uses": ["एसिडिटी", "सीने में जलन", "एसिड रिफ्लक्स", "पेट का अल्सर"], "warnings": ["लंबे समय तक उपयोग डॉक्टर की निगरानी में करें"]},
+      "te": {"uses": ["ఆమ్లత్వం", "గుండెల్లో మంట", "యాసిడ్ రిఫ్లక్స్", "కడుపు పుండు"], "warnings": ["ఎక్కువ కాలం వాడకం వైద్యుని పర్యవేక్షణలో ఉండాలి"]}
+    }
+  },
+  {
+    "id": 5,
+    "name": "Amoxicillin",
+    "aliases": ["amoxil", "novamox"],
+    "composition": "Amoxicillin 500mg",
+    "uses": ["Bacterial infections", "Throat infection", "Ear infection", "Chest infection"],
+    "dosage_info": "Antibiotic - only to be taken as prescribed by a doctor, complete the full course.",
+    "side_effects": ["Diarrhea", "Nausea", "Allergic rash"],
+    "warnings": ["Do not use without doctor's prescription", "Complete full course even if feeling better", "Inform doctor of any penicillin allergy"],
+    "translations": {
+      "hi": {"uses": ["बैक्टीरियल संक्रमण", "गले का संक्रमण", "कान का संक्रमण", "छाती का संक्रमण"], "warnings": ["डॉक्टर के पर्चे के बिना उपयोग न करें", "ठीक महसूस होने पर भी पूरा कोर्स पूरा करें", "पेनिसिलिन एलर्जी होने पर डॉक्टर को बताएं"]},
+      "te": {"uses": ["బాక్టీరియా ఇన్ఫెక్షన్లు", "గొంతు ఇన్ఫెక్షన్", "చెవి ఇన్ఫెక్షన్", "ఛాతీ ఇన్ఫెక్షన్"], "warnings": ["వైద్యుని ప్రిస్క్రిప్షన్ లేకుండా వాడవద్దు", "నయమైనట్లు అనిపించినా పూర్తి కోర్సు పూర్తి చేయండి", "పెన్సిలిన్ అలర్జీ ఉంటే వైద్యుడికి తెలియజేయండి"]}
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ibuprofen",
+    "aliases": ["brufen", "combiflam", "advil"],
+    "composition": "Ibuprofen 400mg",
+    "uses": ["Pain relief", "Inflammation", "Fever", "Muscle pain", "Joint pain"],
+    "dosage_info": "Usually taken with food as directed on the pack or by a doctor.",
+    "side_effects": ["Stomach upset", "Heartburn", "Dizziness"],
+    "warnings": ["Take with food to avoid stomach irritation", "Avoid if you have stomach ulcers", "Consult doctor if pregnant"],
+    "translations": {
+      "hi": {"uses": ["दर्द निवारक", "सूजन", "बुखार", "मांसपेशियों में दर्द", "जोड़ों का दर्द"], "warnings": ["पेट की जलन से बचने के लिए भोजन के साथ लें", "पेट में अल्सर होने पर न लें", "गर्भवती होने पर डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["నొప్పి నివారణ", "వాపు", "జ్వరం", "కండరాల నొప్పి", "కీళ్ల నొప్పి"], "warnings": ["కడుపు చికాకును నివారించడానికి ఆహారంతో తీసుకోండి", "కడుపు పుండ్లు ఉంటే వాడవద్దు", "గర్భవతిగా ఉంటే వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 7,
+    "name": "Aspirin",
+    "aliases": ["disprin", "ecosprin", "loprin"],
+    "composition": "Acetylsalicylic Acid 75mg/325mg",
+    "uses": ["Pain relief", "Fever", "Blood thinning (low dose)", "Heart protection (low dose)"],
+    "dosage_info": "Low-dose (75mg) often prescribed long-term for heart health; higher doses for pain as directed.",
+    "side_effects": ["Stomach irritation", "Increased bleeding risk", "Nausea"],
+    "warnings": ["Do not give to children with viral infections (risk of Reye's syndrome)", "Consult doctor before combining with other blood thinners"],
+    "translations": {
+      "hi": {"uses": ["दर्द निवारक", "बुखार", "रक्त पतला करना (कम खुराक)", "हृदय सुरक्षा (कम खुराक)"], "warnings": ["वायरल संक्रमण वाले बच्चों को न दें", "अन्य रक्त पतला करने वाली दवाओं के साथ डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["నొప్పి నివారణ", "జ్వరం", "రక్తం పలచబడటం (తక్కువ మోతాదు)", "గుండె రక్షణ (తక్కువ మోతాదు)"], "warnings": ["వైరల్ ఇన్ఫెక్షన్ ఉన్న పిల్లలకు ఇవ్వవద్దు", "ఇతర రక్తం పలచబరిచే మందులతో వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 8,
+    "name": "Domperidone",
+    "aliases": ["domstal", "vomiford", "domperidone maleate"],
+    "composition": "Domperidone 10mg",
+    "uses": ["Nausea", "Vomiting", "Bloating", "Indigestion"],
+    "dosage_info": "Usually taken before meals as directed by a doctor.",
+    "side_effects": ["Dry mouth", "Headache", "Abdominal cramps"],
+    "warnings": ["Consult doctor before use in children", "Avoid with certain heart conditions"],
+    "translations": {
+      "hi": {"uses": ["जी मिचलाना", "उल्टी", "पेट फूलना", "अपच"], "warnings": ["बच्चों में उपयोग से पहले डॉक्टर से सलाह लें", "कुछ हृदय स्थितियों में इससे बचें"]},
+      "te": {"uses": ["వికారం", "వాంతులు", "ఉబ్బరం", "అజీర్ణం"], "warnings": ["పిల్లలలో వాడకముందు వైద్యుడిని సంప్రదించండి", "కొన్ని గుండె సమస్యలు ఉంటే నివారించండి"]}
+    }
+  },
+  {
+    "id": 9,
+    "name": "Loperamide",
+    "aliases": ["imodium", "lopamide", "eldoper"],
+    "composition": "Loperamide Hydrochloride 2mg",
+    "uses": ["Diarrhea", "Loose motions"],
+    "dosage_info": "Taken after each loose stool, as per pack instructions, not exceeding max daily dose.",
+    "side_effects": ["Constipation", "Dizziness", "Dry mouth"],
+    "warnings": ["Not for use if fever or blood in stool present - see a doctor instead", "Not recommended for young children without medical advice"],
+    "translations": {
+      "hi": {"uses": ["दस्त", "पतला मल"], "warnings": ["बुखार या मल में खून होने पर उपयोग न करें - डॉक्टर से मिलें", "छोटे बच्चों के लिए डॉक्टर की सलाह के बिना अनुशंसित नहीं"]},
+      "te": {"uses": ["విరేచనాలు", "వదులుగా మలం"], "warnings": ["జ్వరం లేదా మలంలో రక్తం ఉంటే వాడవద్దు - వైద్యుడిని కలవండి", "చిన్న పిల్లలకు వైద్య సలహా లేకుండా సిఫారసు చేయబడదు"]}
+    }
+  },
+  {
+    "id": 10,
+    "name": "Metformin",
+    "aliases": ["glycomet", "glucophage", "obimet"],
+    "composition": "Metformin Hydrochloride 500mg",
+    "uses": ["Type 2 Diabetes", "Blood sugar control"],
+    "dosage_info": "Taken with meals as prescribed by a doctor; requires regular blood sugar monitoring.",
+    "side_effects": ["Stomach upset", "Diarrhea", "Metallic taste"],
+    "warnings": ["Only for prescribed diabetic patients", "Regular monitoring of kidney function recommended", "Do not stop suddenly without consulting doctor"],
+    "translations": {
+      "hi": {"uses": ["टाइप 2 मधुमेह", "रक्त शर्करा नियंत्रण"], "warnings": ["केवल निर्धारित मधुमेह रोगियों के लिए", "गुर्दे के कार्य की नियमित निगरानी की सलाह दी जाती है", "डॉक्टर से सलाह लिए बिना अचानक बंद न करें"]},
+      "te": {"uses": ["టైప్ 2 మధుమేహం", "రక్తంలో చక్కెర నియంత్రణ"], "warnings": ["ప్రిస్క్రైబ్ చేయబడిన మధుమేహ రోగులకు మాత్రమే", "మూత్రపిండాల పనితీరును క్రమం తప్పకుండా పర్యవేక్షించాలి", "వైద్యుడిని సంప్రదించకుండా అకస్మాత్తుగా ఆపవద్దు"]}
+    }
+  },
+  {
+    "id": 11,
+    "name": "Amlodipine",
+    "aliases": ["amlopres", "amlong", "norvasc"],
+    "composition": "Amlodipine Besylate 5mg",
+    "uses": ["High blood pressure", "Hypertension", "Angina/chest pain"],
+    "dosage_info": "Taken once daily as prescribed; requires regular blood pressure monitoring.",
+    "side_effects": ["Swelling in ankles/feet", "Dizziness", "Flushing"],
+    "warnings": ["Do not stop suddenly without consulting doctor", "Regular BP monitoring recommended"],
+    "translations": {
+      "hi": {"uses": ["उच्च रक्तचाप", "हाइपरटेंशन", "एनजाइना/सीने में दर्द"], "warnings": ["डॉक्टर से सलाह लिए बिना अचानक बंद न करें", "नियमित रक्तचाप निगरानी की सलाह दी जाती है"]},
+      "te": {"uses": ["అధిక రక్తపోటు", "హైపర్‌టెన్షన్", "ఆంజైనా/ఛాతీ నొప్పి"], "warnings": ["వైద్యుడిని సంప్రదించకుండా అకస్మాత్తుగా ఆపవద్దు", "క్రమం తప్పకుండా రక్తపోటును పర్యవేక్షించాలి"]}
+    }
+  },
+  {
+    "id": 12,
+    "name": "Azithromycin",
+    "aliases": ["azithral", "zithromax", "azee"],
+    "composition": "Azithromycin 500mg",
+    "uses": ["Bacterial infections", "Respiratory infections", "Throat infection", "Skin infections"],
+    "dosage_info": "Antibiotic - only to be taken as prescribed, typically once daily for 3-5 days.",
+    "side_effects": ["Nausea", "Diarrhea", "Abdominal pain"],
+    "warnings": ["Do not use without doctor's prescription", "Complete the full course even if feeling better"],
+    "translations": {
+      "hi": {"uses": ["बैक्टीरियल संक्रमण", "श्वसन संक्रमण", "गले का संक्रमण", "त्वचा संक्रमण"], "warnings": ["डॉक्टर के पर्चे के बिना उपयोग न करें", "ठीक महसूस होने पर भी पूरा कोर्स पूरा करें"]},
+      "te": {"uses": ["బాక్టీరియా ఇన్ఫెక్షన్లు", "శ్వాసకోశ ఇన్ఫెక్షన్లు", "గొంతు ఇన్ఫెక్షన్", "చర్మ ఇన్ఫెక్షన్లు"], "warnings": ["వైద్యుని ప్రిస్క్రిప్షన్ లేకుండా వాడవద్దు", "నయమైనట్లు అనిపించినా పూర్తి కోర్సు పూర్తి చేయండి"]}
+    }
+  },
+  {
+    "id": 13,
+    "name": "Pantoprazole",
+    "aliases": ["pantocid", "pan 40", "protonix"],
+    "composition": "Pantoprazole 40mg",
+    "uses": ["Acidity", "Acid reflux", "Gastric ulcer", "Heartburn"],
+    "dosage_info": "Usually taken once daily before breakfast, as directed by a doctor.",
+    "side_effects": ["Headache", "Diarrhea", "Nausea"],
+    "warnings": ["Long-term use should be under medical supervision"],
+    "translations": {
+      "hi": {"uses": ["एसिडिटी", "एसिड रिफ्लक्स", "गैस्ट्रिक अल्सर", "सीने में जलन"], "warnings": ["लंबे समय तक उपयोग डॉक्टर की निगरानी में करें"]},
+      "te": {"uses": ["ఆమ్లత్వం", "యాసిడ్ రిఫ్లక్స్", "గ్యాస్ట్రిక్ పుండు", "గుండెల్లో మంట"], "warnings": ["ఎక్కువ కాలం వాడకం వైద్యుని పర్యవేక్షణలో ఉండాలి"]}
+    }
+  },
+  {
+    "id": 14,
+    "name": "Diclofenac",
+    "aliases": ["voveran", "voltaren", "dynapar"],
+    "composition": "Diclofenac Sodium 50mg",
+    "uses": ["Pain relief", "Inflammation", "Joint pain", "Muscle pain", "Sprains"],
+    "dosage_info": "Taken with food as directed on the pack or by a doctor; also available as gel for topical use.",
+    "side_effects": ["Stomach upset", "Heartburn", "Dizziness"],
+    "warnings": ["Take with food", "Avoid if you have stomach ulcers or kidney problems", "Not recommended in pregnancy without medical advice"],
+    "translations": {
+      "hi": {"uses": ["दर्द निवारक", "सूजन", "जोड़ों का दर्द", "मांसपेशियों में दर्द", "मोच"], "warnings": ["भोजन के साथ लें", "पेट में अल्सर या गुर्दे की समस्या होने पर बचें", "गर्भावस्था में डॉक्टर की सलाह के बिना अनुशंसित नहीं"]},
+      "te": {"uses": ["నొప్పి నివారణ", "వాపు", "కీళ్ల నొప్పి", "కండరాల నొప్పి", "బెణుకులు"], "warnings": ["ఆహారంతో తీసుకోండి", "కడుపు పుండ్లు లేదా మూత్రపిండాల సమస్యలు ఉంటే నివారించండి", "గర్భధారణలో వైద్య సలహా లేకుండా సిఫారసు చేయబడదు"]}
+    }
+  },
+  {
+    "id": 15,
+    "name": "Levocetirizine",
+    "aliases": ["levocet", "xyzal", "l-cet"],
+    "composition": "Levocetirizine 5mg",
+    "uses": ["Allergy", "Runny nose", "Itching", "Hives", "Sneezing"],
+    "dosage_info": "Typically one tablet daily, preferably at night, as directed.",
+    "side_effects": ["Drowsiness", "Dry mouth", "Fatigue"],
+    "warnings": ["May cause drowsiness - avoid driving", "Consult doctor if pregnant or breastfeeding"],
+    "translations": {
+      "hi": {"uses": ["एलर्जी", "नाक बहना", "खुजली", "पित्ती", "छींक आना"], "warnings": ["नींद आ सकती है - वाहन न चलाएं", "गर्भवती या स्तनपान कराने वाली महिलाएं डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["అలర్జీ", "ముక్కు కారడం", "దురద", "దద్దుర్లు", "తుమ్ములు"], "warnings": ["నిద్ర రావచ్చు - వాహనం నడపవద్దు", "గర్భవతిగా లేదా పాలిస్తున్నప్పుడు వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 16,
+    "name": "Cough Syrup (Dextromethorphan)",
+    "aliases": ["benadryl cough", "corex", "phensedyl", "ascoril"],
+    "composition": "Dextromethorphan Hydrobromide",
+    "uses": ["Dry cough", "Cough suppressant"],
+    "dosage_info": "Taken as per pack instructions, usually 2-3 times daily.",
+    "side_effects": ["Drowsiness", "Dizziness", "Nausea"],
+    "warnings": ["Avoid driving after taking", "Not recommended for young children without medical advice", "Avoid alcohol"],
+    "translations": {
+      "hi": {"uses": ["सूखी खांसी", "खांसी दबाने वाली दवा"], "warnings": ["लेने के बाद वाहन न चलाएं", "छोटे बच्चों के लिए डॉक्टर की सलाह के बिना अनुशंसित नहीं", "शराब से बचें"]},
+      "te": {"uses": ["పొడి దగ్గు", "దగ్గు నివారిణి"], "warnings": ["తీసుకున్న తర్వాత వాహనం నడపవద్దు", "చిన్న పిల్లలకు వైద్య సలహా లేకుండా సిఫారసు చేయబడదు", "మద్యం మానుకోండి"]}
+    }
+  },
+  {
+    "id": 17,
+    "name": "Expectorant Syrup (Ambroxol)",
+    "aliases": ["mucolite", "ambrolite", "ambrodil"],
+    "composition": "Ambroxol Hydrochloride",
+    "uses": ["Wet cough", "Chest congestion", "Mucus/phlegm clearance"],
+    "dosage_info": "Taken as per pack instructions, usually 2-3 times daily.",
+    "side_effects": ["Nausea", "Stomach upset", "Rare allergic reaction"],
+    "warnings": ["Consult doctor before use in young children"],
+    "translations": {
+      "hi": {"uses": ["गीली खांसी", "छाती में जमाव", "बलगम साफ करना"], "warnings": ["छोटे बच्चों में उपयोग से पहले डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["తడి దగ్గు", "ఛాతీ రద్దీ", "కఫం తొలగింపు"], "warnings": ["చిన్న పిల్లలలో వాడకముందు వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 18,
+    "name": "Antacid (Digene)",
+    "aliases": ["digene", "gelusil", "eno"],
+    "composition": "Aluminium Hydroxide, Magnesium Hydroxide, Simethicone",
+    "uses": ["Acidity", "Gas", "Bloating", "Indigestion"],
+    "dosage_info": "Chewable tablets or liquid, taken after meals as needed.",
+    "side_effects": ["Constipation or diarrhea (rare)"],
+    "warnings": ["Do not exceed recommended daily dose", "Consult doctor if symptoms persist beyond 2 weeks"],
+    "translations": {
+      "hi": {"uses": ["एसिडिटी", "गैस", "पेट फूलना", "अपच"], "warnings": ["अनुशंसित दैनिक खुराक से अधिक न लें", "यदि लक्षण 2 सप्ताह से अधिक बने रहें तो डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["ఆమ్లత్వం", "గ్యాస్", "ఉబ్బరం", "అజీర్ణం"], "warnings": ["సిఫారసు చేసిన రోజువారీ మోతాదును మించవద్దు", "లక్షణాలు 2 వారాల కంటే ఎక్కువ కొనసాగితే వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 19,
+    "name": "Povidone Iodine Ointment",
+    "aliases": ["betadine", "povidone iodine cream", "wokadine"],
+    "composition": "Povidone Iodine 5%",
+    "uses": ["Wound care", "Cuts", "Minor burns", "Antiseptic for skin infections"],
+    "dosage_info": "Apply a thin layer to the affected area 2-3 times daily after cleaning.",
+    "side_effects": ["Skin irritation (rare)", "Allergic reaction in iodine-sensitive individuals"],
+    "warnings": ["For external use only", "Avoid contact with eyes", "Discontinue if irritation occurs"],
+    "translations": {
+      "hi": {"uses": ["घाव की देखभाल", "कट", "मामूली जलन", "त्वचा संक्रमण के लिए एंटीसेप्टिक"], "warnings": ["केवल बाहरी उपयोग के लिए", "आंखों के संपर्क से बचें", "जलन होने पर उपयोग बंद करें"]},
+      "te": {"uses": ["గాయం సంరక్షణ", "కోతలు", "చిన్న కాలిన గాయాలు", "చర్మ ఇన్ఫెక్షన్లకు యాంటిసెప్టిక్"], "warnings": ["బాహ్య వినియోగానికి మాత్రమే", "కళ్లతో సంపర్కాన్ని నివారించండి", "చికాకు కలిగితే వాడకం ఆపండి"]}
+    }
+  },
+  {
+    "id": 20,
+    "name": "Silver Sulfadiazine Cream",
+    "aliases": ["silverex", "burnol", "silvirin"],
+    "composition": "Silver Sulfadiazine 1%",
+    "uses": ["Burns", "Wound infection prevention"],
+    "dosage_info": "Apply a thin layer to the burn area as directed, usually once or twice daily.",
+    "side_effects": ["Skin irritation", "Rash (rare)"],
+    "warnings": ["For external use only", "Do not use on deep or large burns without medical care", "Avoid in newborns without doctor's advice"],
+    "translations": {
+      "hi": {"uses": ["जलन", "घाव संक्रमण की रोकथाम"], "warnings": ["केवल बाहरी उपयोग के लिए", "गहरी या बड़ी जलन पर चिकित्सा देखभाल के बिना उपयोग न करें", "नवजात शिशुओं में डॉक्टर की सलाह के बिना उपयोग से बचें"]},
+      "te": {"uses": ["కాలిన గాయాలు", "గాయం ఇన్ఫెక్షన్ నివారణ"], "warnings": ["బాహ్య వినియోగానికి మాత్రమే", "వైద్య సంరక్షణ లేకుండా లోతైన లేదా పెద్ద కాలిన గాయాలపై వాడవద్దు", "నవజాత శిశువులలో వైద్యుని సలహా లేకుండా నివారించండి"]}
+    }
+  },
+  {
+    "id": 21,
+    "name": "Multivitamin Tablets",
+    "aliases": ["revital", "supradyn", "becosules"],
+    "composition": "Mixed vitamins and minerals (varies by brand)",
+    "uses": ["General weakness", "Nutritional supplement", "Fatigue support"],
+    "dosage_info": "Typically one tablet daily after food, as directed on the pack.",
+    "side_effects": ["Mild stomach upset (rare)"],
+    "warnings": ["Not a substitute for a balanced diet", "Consult doctor before combining with other supplements"],
+    "translations": {
+      "hi": {"uses": ["सामान्य कमजोरी", "पोषण अनुपूरक", "थकान सहायता"], "warnings": ["संतुलित आहार का विकल्प नहीं", "अन्य सप्लीमेंट्स के साथ लेने से पहले डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["సాధారణ బలహీనత", "పోషక సప్లిమెంట్", "అలసట మద్దతు"], "warnings": ["సమతుల్య ఆహారానికి ప్రత్యామ్నాయం కాదు", "ఇతర సప్లిమెంట్లతో కలిపే ముందు వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 22,
+    "name": "Calcium + Vitamin D3 Tablets",
+    "aliases": ["shelcal", "calcirol", "ostocalcium"],
+    "composition": "Calcium Carbonate + Vitamin D3",
+    "uses": ["Bone health", "Calcium deficiency", "Osteoporosis prevention"],
+    "dosage_info": "Typically one tablet daily after food, as directed by a doctor.",
+    "side_effects": ["Constipation", "Bloating (rare)"],
+    "warnings": ["Consult doctor before long-term use", "Avoid excess intake beyond prescribed dose"],
+    "translations": {
+      "hi": {"uses": ["हड्डियों का स्वास्थ्य", "कैल्शियम की कमी", "ऑस्टियोपोरोसिस की रोकथाम"], "warnings": ["लंबे समय तक उपयोग से पहले डॉक्टर से सलाह लें", "निर्धारित खुराक से अधिक सेवन से बचें"]},
+      "te": {"uses": ["ఎముకల ఆరోగ్యం", "కాల్షియం లోపం", "బోలు ఎముకల వ్యాధి నివారణ"], "warnings": ["ఎక్కువ కాలం వాడకముందు వైద్యుడిని సంప్రదించండి", "సూచించిన మోతాదు కంటే ఎక్కువ తీసుకోవడం మానుకోండి"]}
+    }
+  },
+  {
+    "id": 23,
+    "name": "Iron + Folic Acid Tablets",
+    "aliases": ["fefol", "autrin", "ferium"],
+    "composition": "Ferrous Sulfate + Folic Acid",
+    "uses": ["Iron deficiency", "Anemia", "Pregnancy supplement"],
+    "dosage_info": "Typically one tablet daily, often on doctor's advice during pregnancy or for anemia.",
+    "side_effects": ["Constipation", "Dark stools", "Nausea"],
+    "warnings": ["Take as prescribed", "May interact with certain other medicines - inform your doctor"],
+    "translations": {
+      "hi": {"uses": ["आयरन की कमी", "एनीमिया", "गर्भावस्था अनुपूरक"], "warnings": ["निर्धारित अनुसार लें", "कुछ अन्य दवाओं के साथ परस्पर क्रिया हो सकती है - अपने डॉक्टर को बताएं"]},
+      "te": {"uses": ["ఐరన్ లోపం", "రక్తహీనత", "గర్భధారణ సప్లిమెంట్"], "warnings": ["సూచించిన విధంగా తీసుకోండి", "కొన్ని ఇతర మందులతో పరస్పర చర్య జరగవచ్చు - మీ వైద్యుడికి తెలియజేయండి"]}
+    }
+  },
+  {
+    "id": 24,
+    "name": "Ranitidine Alternative (Famotidine)",
+    "aliases": ["famocid", "famotidine", "acifit"],
+    "composition": "Famotidine 20mg/40mg",
+    "uses": ["Acidity", "Heartburn", "Peptic ulcer"],
+    "dosage_info": "Usually taken once or twice daily before meals, as directed.",
+    "side_effects": ["Headache", "Dizziness", "Constipation"],
+    "warnings": ["Long-term use should be under medical supervision"],
+    "translations": {
+      "hi": {"uses": ["एसिडिटी", "सीने में जलन", "पेप्टिक अल्सर"], "warnings": ["लंबे समय तक उपयोग डॉक्टर की निगरानी में करें"]},
+      "te": {"uses": ["ఆమ్లత్వం", "గుండెల్లో మంట", "పెప్టిక్ పుండు"], "warnings": ["ఎక్కువ కాలం వాడకం వైద్యుని పర్యవేక్షణలో ఉండాలి"]}
+    }
+  },
+  {
+    "id": 25,
+    "name": "Clotrimazole Cream",
+    "aliases": ["candid", "canesten", "clocip"],
+    "composition": "Clotrimazole 1%",
+    "uses": ["Fungal skin infection", "Ringworm", "Athlete's foot", "Yeast infection (skin)"],
+    "dosage_info": "Apply to affected area 2-3 times daily for the duration advised (often 2-4 weeks).",
+    "side_effects": ["Mild burning or irritation at application site"],
+    "warnings": ["For external use only", "Continue full course even if symptoms improve early"],
+    "translations": {
+      "hi": {"uses": ["फंगल त्वचा संक्रमण", "दाद", "एथलीट फुट", "यीस्ट संक्रमण (त्वचा)"], "warnings": ["केवल बाहरी उपयोग के लिए", "लक्षण जल्दी सुधरने पर भी पूरा कोर्स जारी रखें"]},
+      "te": {"uses": ["ఫంగల్ చర్మ ఇన్ఫెక్షన్", "పులిపిరి", "అథ్లెట్స్ ఫుట్", "యీస్ట్ ఇన్ఫెక్షన్ (చర్మం)"], "warnings": ["బాహ్య వినియోగానికి మాత్రమే", "లక్షణాలు త్వరగా మెరుగుపడినా పూర్తి కోర్సు కొనసాగించండి"]}
+    }
+  },
+  {
+    "id": 26,
+    "name": "Hydrocortisone Cream",
+    "aliases": ["cortisone cream", "hydrocort", "locoid"],
+    "composition": "Hydrocortisone 1%",
+    "uses": ["Skin inflammation", "Eczema", "Itching", "Insect bite reaction"],
+    "dosage_info": "Apply a thin layer to affected area, usually 1-2 times daily, for short durations.",
+    "side_effects": ["Skin thinning with prolonged use", "Burning sensation"],
+    "warnings": ["For external use only, short-term use recommended", "Avoid use on face without doctor's advice", "Avoid broken skin"],
+    "translations": {
+      "hi": {"uses": ["त्वचा में सूजन", "एक्जिमा", "खुजली", "कीड़े के काटने की प्रतिक्रिया"], "warnings": ["केवल बाहरी उपयोग के लिए, कम समय के लिए उपयोग की सलाह दी जाती है", "डॉक्टर की सलाह के बिना चेहरे पर उपयोग से बचें", "टूटी त्वचा से बचें"]},
+      "te": {"uses": ["చర్మ వాపు", "తామర", "దురద", "కీటకం కాటు ప్రతిచర్య"], "warnings": ["బాహ్య వినియోగానికి మాత్రమే, తక్కువ కాలం వాడకం సిఫారసు చేయబడింది", "వైద్యుని సలహా లేకుండా ముఖంపై వాడవద్దు", "గాయపడిన చర్మాన్ని నివారించండి"]}
+    }
+  },
+  {
+    "id": 27,
+    "name": "Salbutamol Inhaler",
+    "aliases": ["asthalin", "ventolin", "levolin"],
+    "composition": "Salbutamol Sulfate (Inhaler)",
+    "uses": ["Asthma", "Breathing difficulty", "Bronchospasm relief"],
+    "dosage_info": "Used as a reliever inhaler during breathing difficulty, as prescribed by a doctor.",
+    "side_effects": ["Tremors", "Rapid heartbeat", "Nervousness"],
+    "warnings": ["For prescribed use only - not for routine daily use without a doctor's asthma plan", "Seek emergency care if no relief after use during an attack"],
+    "translations": {
+      "hi": {"uses": ["अस्थमा", "सांस लेने में कठिनाई", "ब्रोन्कोस्पाज्म से राहत"], "warnings": ["केवल निर्धारित उपयोग के लिए - डॉक्टर की अस्थमा योजना के बिना नियमित दैनिक उपयोग के लिए नहीं", "अटैक के दौरान उपयोग के बाद राहत न मिलने पर तुरंत आपातकालीन देखभाल लें"]},
+      "te": {"uses": ["ఆస్తమా", "శ్వాస తీసుకోవడంలో ఇబ్బంది", "బ్రోంకోస్పాజమ్ నుండి ఉపశమనం"], "warnings": ["ప్రిస్క్రైబ్ చేసిన వినియోగానికి మాత్రమే - వైద్యుని ఆస్తమా ప్రణాళిక లేకుండా రోజువారీ వాడకానికి కాదు", "అటాక్ సమయంలో వాడిన తర్వాత ఉపశమనం లేకపోతే వెంటనే అత్యవసర సంరక్షణ పొందండి"]}
+    }
+  },
+  {
+    "id": 28,
+    "name": "Chlorpheniramine (Antihistamine)",
+    "aliases": ["piriton", "cpm", "chlortrimeton"],
+    "composition": "Chlorpheniramine Maleate 4mg",
+    "uses": ["Allergy", "Cold symptoms", "Runny nose", "Sneezing"],
+    "dosage_info": "Taken as per pack instructions, usually every 6-8 hours.",
+    "side_effects": ["Drowsiness", "Dry mouth", "Dizziness"],
+    "warnings": ["May cause drowsiness - avoid driving", "Avoid alcohol"],
+    "translations": {
+      "hi": {"uses": ["एलर्जी", "सर्दी के लक्षण", "नाक बहना", "छींक आना"], "warnings": ["नींद आ सकती है - वाहन न चलाएं", "शराब से बचें"]},
+      "te": {"uses": ["అలర్జీ", "జలుబు లక్షణాలు", "ముక్కు కారడం", "తుమ్ములు"], "warnings": ["నిద్ర రావచ్చు - వాహనం నడపవద్దు", "మద్యం మానుకోండి"]}
+    }
+  },
+  {
+    "id": 29,
+    "name": "Vicks Vaporub",
+    "aliases": ["vicks", "vaporub"],
+    "composition": "Menthol, Camphor, Eucalyptus Oil",
+    "uses": ["Cold symptoms", "Chest congestion relief", "Blocked nose relief (topical)"],
+    "dosage_info": "Apply externally to chest, throat, and back as needed.",
+    "side_effects": ["Skin irritation in sensitive individuals"],
+    "warnings": ["For external use only - do not ingest", "Avoid contact with eyes and broken skin", "Not recommended for children under 2 years without doctor's advice"],
+    "translations": {
+      "hi": {"uses": ["सर्दी के लक्षण", "छाती में जमाव से राहत", "बंद नाक से राहत (बाहरी)"], "warnings": ["केवल बाहरी उपयोग के लिए - निगलें नहीं", "आंखों और कटी-फटी त्वचा से संपर्क से बचें", "2 साल से कम उम्र के बच्चों के लिए डॉक्टर की सलाह के बिना अनुशंसित नहीं"]},
+      "te": {"uses": ["జలుబు లక్షణాలు", "ఛాతీ రద్దీ నుండి ఉపశమనం", "మూసుకుపోయిన ముక్కు నుండి ఉపశమనం (బాహ్య)"], "warnings": ["బాహ్య వినియోగానికి మాత్రమే - మింగవద్దు", "కళ్లు మరియు గాయపడిన చర్మంతో సంపర్కాన్ని నివారించండి", "2 సంవత్సరాల లోపు పిల్లలకు వైద్యుని సలహా లేకుండా సిఫారసు చేయబడదు"]}
+    }
+  },
+  {
+    "id": 30,
+    "name": "Throat Lozenges",
+    "aliases": ["strepsils", "vicks cough drops", "halls"],
+    "composition": "Menthol, Antiseptic agents (varies by brand)",
+    "uses": ["Sore throat", "Throat irritation", "Cough relief (mild)"],
+    "dosage_info": "Dissolve one lozenge slowly in the mouth as needed, per pack instructions.",
+    "side_effects": ["Mild mouth irritation (rare)"],
+    "warnings": ["Not recommended for young children due to choking risk", "Do not exceed recommended daily amount"],
+    "translations": {
+      "hi": {"uses": ["गले में खराश", "गले में जलन", "खांसी से राहत (हल्की)"], "warnings": ["दम घुटने के खतरे के कारण छोटे बच्चों के लिए अनुशंसित नहीं", "अनुशंसित दैनिक मात्रा से अधिक न लें"]},
+      "te": {"uses": ["గొంతు నొప్పి", "గొంతు చికాకు", "దగ్గు నుండి ఉపశమనం (తేలికపాటి)"], "warnings": ["ఉక్కిరిబిక్కిరి ప్రమాదం కారణంగా చిన్న పిల్లలకు సిఫారసు చేయబడదు", "సిఫారసు చేసిన రోజువారీ మొత్తాన్ని మించవద్దు"]}
+    }
+  },
+  {
+    "id": 31,
+    "name": "Dicyclomine (Antispasmodic)",
+    "aliases": ["cyclopam", "meftal spas", "colimex"],
+    "composition": "Dicyclomine Hydrochloride",
+    "uses": ["Stomach cramps", "Abdominal pain", "Menstrual cramps"],
+    "dosage_info": "Taken as directed on the pack or by a doctor, usually with food.",
+    "side_effects": ["Dry mouth", "Dizziness", "Blurred vision (rare)"],
+    "warnings": ["Consult doctor if pain is severe or persistent", "Avoid driving if drowsy"],
+    "translations": {
+      "hi": {"uses": ["पेट में ऐंठन", "पेट दर्द", "मासिक धर्म में ऐंठन"], "warnings": ["यदि दर्द गंभीर या लगातार हो तो डॉक्टर से सलाह लें", "नींद आने पर वाहन न चलाएं"]},
+      "te": {"uses": ["కడుపు తిమ్మిరి", "కడుపు నొప్పి", "నెలసరి తిమ్మిరి"], "warnings": ["నొప్పి తీవ్రంగా లేదా కొనసాగుతూ ఉంటే వైద్యుడిని సంప్రదించండి", "నిద్ర వస్తే వాహనం నడపవద్దు"]}
+    }
+  },
+  {
+    "id": 32,
+    "name": "Mefenamic Acid",
+    "aliases": ["meftal forte", "ponstan", "mefkind"],
+    "composition": "Mefenamic Acid 500mg",
+    "uses": ["Pain relief", "Menstrual pain", "Mild to moderate pain"],
+    "dosage_info": "Taken with food as directed on the pack or by a doctor.",
+    "side_effects": ["Stomach upset", "Drowsiness", "Headache"],
+    "warnings": ["Take with food", "Avoid if you have stomach ulcers", "Consult doctor if pregnant"],
+    "translations": {
+      "hi": {"uses": ["दर्द निवारक", "मासिक धर्म का दर्द", "हल्का से मध्यम दर्द"], "warnings": ["भोजन के साथ लें", "पेट में अल्सर होने पर बचें", "गर्भवती होने पर डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["నొప్పి నివారణ", "నెలసరి నొప్పి", "తేలికపాటి నుండి మధ్యస్థ నొప్పి"], "warnings": ["ఆహారంతో తీసుకోండి", "కడుపు పుండ్లు ఉంటే నివారించండి", "గర్భవతిగా ఉంటే వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 33,
+    "name": "Ondansetron",
+    "aliases": ["emeset", "vomikind", "zofran"],
+    "composition": "Ondansetron 4mg/8mg",
+    "uses": ["Nausea", "Vomiting", "Motion sickness support"],
+    "dosage_info": "Taken as directed by a doctor, often before travel or as needed for nausea.",
+    "side_effects": ["Headache", "Constipation", "Dizziness"],
+    "warnings": ["Consult doctor before use in children", "Inform doctor of any heart rhythm conditions"],
+    "translations": {
+      "hi": {"uses": ["जी मिचलाना", "उल्टी", "यात्रा में मतली सहायता"], "warnings": ["बच्चों में उपयोग से पहले डॉक्टर से सलाह लें", "किसी भी हृदय ताल की स्थिति के बारे में डॉक्टर को बताएं"]},
+      "te": {"uses": ["వికారం", "వాంతులు", "ప్రయాణ అస్వస్థత మద్దతు"], "warnings": ["పిల్లలలో వాడకముందు వైద్యుడిని సంప్రదించండి", "గుండె లయ సమస్యల గురించి వైద్యుడికి తెలియజేయండి"]}
+    }
+  },
+  {
+    "id": 34,
+    "name": "Ofloxacin Eye/Ear Drops",
+    "aliases": ["oflox", "exocin", "ocuflox"],
+    "composition": "Ofloxacin 0.3%",
+    "uses": ["Eye infection", "Ear infection", "Conjunctivitis"],
+    "dosage_info": "Apply drops as prescribed, usually 2-4 times daily.",
+    "side_effects": ["Temporary stinging", "Local irritation"],
+    "warnings": ["Do not touch dropper tip to eye/ear", "Discontinue and consult doctor if irritation worsens", "Only for prescribed use"],
+    "translations": {
+      "hi": {"uses": ["आंख का संक्रमण", "कान का संक्रमण", "कंजंक्टिवाइटिस"], "warnings": ["ड्रॉपर की नोक को आंख/कान से न छुएं", "जलन बढ़ने पर बंद करें और डॉक्टर से सलाह लें", "केवल निर्धारित उपयोग के लिए"]},
+      "te": {"uses": ["కంటి ఇన్ఫెక్షన్", "చెవి ఇన్ఫెక్షన్", "కండ్లకలక"], "warnings": ["డ్రాపర్ కొనను కన్ను/చెవికి తాకించవద్దు", "చికాకు పెరిగితే ఆపి వైద్యుడిని సంప్రదించండి", "ప్రిస్క్రైబ్ చేసిన వినియోగానికి మాత్రమే"]}
+    }
+  },
+  {
+    "id": 35,
+    "name": "Zinc Supplement Tablets",
+    "aliases": ["zincovit", "zinconia", "z-tab"],
+    "composition": "Zinc Sulfate/Gluconate",
+    "uses": ["Immune support", "Diarrhea recovery support (children)", "Zinc deficiency"],
+    "dosage_info": "Taken as directed on the pack, often once daily with food.",
+    "side_effects": ["Nausea if taken on empty stomach", "Metallic taste"],
+    "warnings": ["Do not exceed recommended dose", "Consult doctor for use in young children"],
+    "translations": {
+      "hi": {"uses": ["प्रतिरक्षा सहायता", "दस्त से रिकवरी सहायता (बच्चे)", "जिंक की कमी"], "warnings": ["अनुशंसित खुराक से अधिक न लें", "छोटे बच्चों में उपयोग के लिए डॉक्टर से सलाह लें"]},
+      "te": {"uses": ["రోగనిరోధక మద్దతు", "విరేచనాల నుండి కోలుకోవడంలో మద్దతు (పిల్లలు)", "జింక్ లోపం"], "warnings": ["సిఫారసు చేసిన మోతాదును మించవద్దు", "చిన్న పిల్లలలో వాడకానికి వైద్యుడిని సంప్రదించండి"]}
+    }
+  },
+  {
+    "id": 36,
+    "name": "Losartan",
+    "aliases": ["losar", "covance", "repace"],
+    "composition": "Losartan Potassium 50mg",
+    "uses": ["High blood pressure", "Hypertension", "Kidney protection in diabetes"],
+    "dosage_info": "Taken once daily as prescribed; requires regular blood pressure monitoring.",
+    "side_effects": ["Dizziness", "Fatigue", "Elevated potassium levels (rare)"],
+    "warnings": ["Do not stop suddenly without consulting doctor", "Avoid in pregnancy", "Regular BP monitoring recommended"],
+    "translations": {
+      "hi": {"uses": ["उच्च रक्तचाप", "हाइपरटेंशन", "मधुमेह में गुर्दे की सुरक्षा"], "warnings": ["डॉक्टर से सलाह लिए बिना अचानक बंद न करें", "गर्भावस्था में बचें", "नियमित रक्तचाप निगरानी की सलाह दी जाती है"]},
+      "te": {"uses": ["అధిక రక్తపోటు", "హైపర్‌టెన్షన్", "మధుమేహంలో మూత్రపిండాల రక్షణ"], "warnings": ["వైద్యుడిని సంప్రదించకుండా అకస్మాత్తుగా ఆపవద్దు", "గర్భధారణలో నివారించండి", "క్రమం తప్పకుండా రక్తపోటును పర్యవేక్షించాలి"]}
+    }
+  },
+  {
+    "id": 37,
+    "name": "Atorvastatin",
+    "aliases": ["atorva", "lipitor", "storvas"],
+    "composition": "Atorvastatin Calcium 10mg/20mg",
+    "uses": ["High cholesterol", "Heart disease prevention"],
+    "dosage_info": "Taken once daily, usually at night, as prescribed by a doctor.",
+    "side_effects": ["Muscle pain", "Headache", "Digestive issues"],
+    "warnings": ["Regular liver function monitoring may be needed", "Inform doctor of any unexplained muscle pain", "Avoid grapefruit juice"],
+    "translations": {
+      "hi": {"uses": ["उच्च कोलेस्ट्रॉल", "हृदय रोग की रोकथाम"], "warnings": ["नियमित यकृत कार्य निगरानी की आवश्यकता हो सकती है", "किसी भी अस्पष्ट मांसपेशी दर्द के बारे में डॉक्टर को बताएं", "अंगूर के रस से बचें"]},
+      "te": {"uses": ["అధిక కొలెస్ట్రాల్", "గుండె జబ్బు నివారణ"], "warnings": ["క్రమం తప్పకుండా కాలేయ పనితీరును పర్యవేక్షించాల్సి రావచ్చు", "వివరించలేని కండరాల నొప్పి గురించి వైద్యుడికి తెలియజేయండి", "గ్రేప్‌ఫ్రూట్ జ్యూస్‌ను నివారించండి"]}
+    }
+  },
+  {
+    "id": 38,
+    "name": "Ranitidine",
+    "aliases": ["rantac", "zinetac", "aciloc"],
+    "composition": "Ranitidine Hydrochloride 150mg",
+    "uses": ["Acidity", "Heartburn", "Acid reflux"],
+    "dosage_info": "Usually taken before meals or at bedtime, as directed.",
+    "side_effects": ["Headache", "Constipation", "Dizziness"],
+    "warnings": ["Consult doctor for long-term use", "Some formulations have faced regulatory review - use only as currently approved and directed by a doctor"],
+    "translations": {
+      "hi": {"uses": ["एसिडिटी", "सीने में जलन", "एसिड रिफ्लक्स"], "warnings": ["लंबे समय तक उपयोग के लिए डॉक्टर से सलाह लें", "कुछ फॉर्मूलेशन नियामक समीक्षा के दायरे में रहे हैं - केवल वर्तमान में अनुमोदित और डॉक्टर द्वारा निर्देशित अनुसार उपयोग करें"]},
+      "te": {"uses": ["ఆమ్లత్వం", "గుండెల్లో మంట", "యాసిడ్ రిఫ్లక్స్"], "warnings": ["ఎక్కువ కాలం వాడకానికి వైద్యుడిని సంప్రదించండి", "కొన్ని ఫార్ములేషన్లు నియంత్రణ సమీక్షలో ఉన్నాయి - ప్రస్తుతం ఆమోదించబడిన మరియు వైద్యుడు సూచించిన విధంగా మాత్రమే వాడండి"]}
+    }
+  },
+  {
+    "id": 39,
+    "name": "Rabeprazole",
+    "aliases": ["rablet", "razo", "aciphex"],
+    "composition": "Rabeprazole Sodium 20mg",
+    "uses": ["Acidity", "Acid reflux", "Gastric ulcer", "Heartburn"],
+    "dosage_info": "Usually taken once daily before breakfast, as directed by a doctor.",
+    "side_effects": ["Headache", "Diarrhea", "Nausea"],
+    "warnings": ["Long-term use should be under medical supervision"],
+    "translations": {
+      "hi": {"uses": ["एसिडिटी", "एसिड रिफ्लक्स", "गैस्ट्रिक अल्सर", "सीने में जलन"], "warnings": ["लंबे समय तक उपयोग डॉक्टर की निगरानी में करें"]},
+      "te": {"uses": ["ఆమ్లత్వం", "యాసిడ్ రిఫ్లక్స్", "గ్యాస్ట్రిక్ పుండు", "గుండెల్లో మంట"], "warnings": ["ఎక్కువ కాలం వాడకం వైద్యుని పర్యవేక్షణలో ఉండాలి"]}
+    }
+  },
+  {
+    "id": 40,
+    "name": "Oral Antifungal (Fluconazole)",
+    "aliases": ["forcan", "zocon", "flucos"],
+    "composition": "Fluconazole 150mg",
+    "uses": ["Fungal infection", "Yeast infection", "Vaginal candidiasis"],
+    "dosage_info": "Often taken as a single dose or short course as prescribed by a doctor.",
+    "side_effects": ["Nausea", "Headache", "Stomach pain"],
+    "warnings": ["Only to be taken as prescribed", "Inform doctor of any liver conditions", "Avoid in pregnancy without medical advice"],
+    "translations": {
+      "hi": {"uses": ["फंगल संक्रमण", "यीस्ट संक्रमण", "योनि कैंडिडिआसिस"], "warnings": ["केवल निर्धारित अनुसार लें", "किसी भी यकृत की स्थिति के बारे में डॉक्टर को बताएं", "गर्भावस्था में डॉक्टर की सलाह के बिना बचें"]},
+      "te": {"uses": ["ఫంగల్ ఇన్ఫెక్షన్", "యీస్ట్ ఇన్ఫెక్షన్", "యోని కాండిడియాసిస్"], "warnings": ["సూచించిన విధంగా మాత్రమే తీసుకోండి", "ఏదైనా కాలేయ సమస్యల గురించి వైద్యుడికి తెలియజేయండి", "గర్భధారణలో వైద్య సలహా లేకుండా నివారించండి"]}
+    }
+  }
+]
